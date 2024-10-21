@@ -1,0 +1,14 @@
+body{
+    background-image: url(includes/foto\ de\ fundo\ para\ celular.jfif);
+}
+
+.cadastro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h2{
+    color: rgb(49, 69, 70);
+}
